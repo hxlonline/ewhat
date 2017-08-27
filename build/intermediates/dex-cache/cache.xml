@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/hexinglin/Desktop/Ewhat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/hexinglin/Desktop/eWhat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0758d6cb9e5c862ac38ff54c0489459b77c0fa55">
-        <dex dex="/Users/hexinglin/Desktop/Ewhat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ab42f59139a760903f19e85d43928e7ed069211f/classes.dex" />
+        sha1="78a81b3fa98829acbf3c4cf67ba1d183061204aa">
+        <dex dex="/Users/hexinglin/Desktop/eWhat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9a4484f3e8be30379e54e9537c7cc82cf6c2736/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/hexinglin/Desktop/Ewhat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/hexinglin/Desktop/eWhat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/hexinglin/Desktop/Ewhat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d197e91ec887b5049949e6daaf66288041d9b325/classes.dex" />
+        <dex dex="/Users/hexinglin/Desktop/eWhat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d76ac6138a95ca948cac75d6d1681f01fbc7982/classes.dex" />
     </item>
 
 </items>

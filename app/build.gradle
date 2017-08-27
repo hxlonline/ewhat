@@ -34,6 +34,7 @@ dependencies {
     compile 'com.google.firebase:firebase-core:10.2.6'
     compile 'com.google.firebase:firebase-database:10.2.6'
     compile 'cn.finalteam:galleryfinal:1.4.8.7'
+    compile 'com.google.firebase:firebase-storage:10.2.6'
     testCompile 'junit:junit:4.12'
     apt 'org.androidannotations:androidannotations:4.3.0'
 }
