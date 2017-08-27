@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728435247647",
+    "firebase_url": "https://ewhat-478bb.firebaseio.com",
+    "project_id": "ewhat-478bb",
+    "storage_bucket": "ewhat-478bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728435247647:android:25b3453e864ed0e4",
+        "android_client_info": {
+          "package_name": "hxl.cn.com.ewhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728435247647-7prrdvq4iks4f6hoph7f6ehd3giaqhlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hxl.cn.com.ewhat",
+            "certificate_hash": "8438a1664dc9d84041e3324a70d628b2a69406ad"
+          }
+        },
+        {
+          "client_id": "728435247647-unan99g1lmbvf2gt9eden32qpbf7597o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpDjh_nrhbKLEgcNXP1B8X3RU90LQhP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728435247647-unan99g1lmbvf2gt9eden32qpbf7597o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
